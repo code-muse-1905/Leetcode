@@ -6,14 +6,12 @@ public:
       });
       int e=0;
       int a=0;
-      for(auto i:tasks){
-        int act=i[0];
-        int mini=i[1];
-        if(e<mini){
-            a+=mini-e;
-            e=mini;
+      for(auto& i:tasks){
+        if(e<i[1]){
+            a+=i[1]-e;
+            e=i[1];
         }
-        e-=act;
+        e-=i[0];
       }
       return a;
     }
