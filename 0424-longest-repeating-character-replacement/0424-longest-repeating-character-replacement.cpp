@@ -1,18 +1,18 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_map<char, int> mp;
-        int a = 0, i = 0, maxi = 0;
-        for (int j = 0; j < s.size(); j++) {
-            mp[s[j]]++;
-            maxi = max(maxi, mp[s[j]]);
-            while ((j - i + 1) - maxi > k) {
-            mp[s[i]]--;
-                i++;
+        vector<int> c(26);
+        int l=0;
+        int ans=0;
+        int maxi=0;
+        for(int r=0; r<s.length();r++){
+            maxi = max(maxi, ++c[s[r]-'A']);
+            if(r-l+1 -maxi >k) {
+                c[s[l]-'A']--;
+                l++;
             }
-            a = max(a, j - i + 1);
+            ans = max(ans, r-l+1);
         }
-
-        return a; 
+        return ans;
     }
 };
