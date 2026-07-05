@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-muse-1905/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/code-muse-1905/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3046-split-the-array](https://github.com/code-muse-1905/Leetcode/tree/master/3046-split-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/code-muse-1905/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Counting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/code-muse-1905/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
