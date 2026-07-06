@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/code-muse-1905/Leetcode/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-muse-1905/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1288-remove-covered-intervals](https://github.com/code-muse-1905/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/code-muse-1905/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/code-muse-1905/Leetcode/tree/master/0015-3sum) |
+| [1288-remove-covered-intervals](https://github.com/code-muse-1905/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## String
 |  |
