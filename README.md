@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/code-muse-1905/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/code-muse-1905/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-muse-1905/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
