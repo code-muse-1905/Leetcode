@@ -11,23 +11,21 @@
  */
 class Solution {
 public:
-    vector<string> ans;
-    void dfs(TreeNode* root, string path) {
-        if (root == nullptr)
-            return;
-        if (path.empty())
-            path = to_string(root->val);
-        else
-            path += "->" + to_string(root->val);
-        if (root->left == nullptr && root->right == nullptr) {
-            ans.push_back(path);
+    void path(TreeNode* root, vector<string>& str, string temp){
+        if(root->left==NULL && root->right==NULL){
+            if(temp.size() != 0) temp += "->";
+            temp += to_string(root->val);
+            str.push_back(temp);
             return;
         }
-        dfs(root->left, path);
-        dfs(root->right, path);
-        }
+        if(temp.size() != 0) temp += "->";
+        temp += to_string(root->val);
+        if(root->left!=NULL) path(root->left, str, temp);
+        if(root->right!=NULL) path(root->right, str, temp);
+    }
     vector<string> binaryTreePaths(TreeNode* root) {
-        dfs(root, "");
-        return ans;
+        vector<string> str;
+        path(root, str,"");
+        return str;
     }
 };
