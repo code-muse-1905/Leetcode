@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/code-muse-1905/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -124,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/code-muse-1905/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/code-muse-1905/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Database
