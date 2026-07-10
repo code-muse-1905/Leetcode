@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-muse-1905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/code-muse-1905/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/code-muse-1905/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
