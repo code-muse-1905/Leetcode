@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/code-muse-1905/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
