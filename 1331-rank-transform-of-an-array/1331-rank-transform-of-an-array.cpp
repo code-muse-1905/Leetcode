@@ -3,16 +3,10 @@ public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         vector<int> s = arr;
         sort(s.begin(), s.end());
-       unordered_map<int,int>mp;
-       int r=1;
-       for(int i:s){
-        if(!mp.count(i)){
-            mp[i]=r++;
+        s.erase(unique(s.begin(), s.end()), s.end());
+        for (int i = 0; i < arr.size(); i++) {
+            arr[i] = lower_bound(s.begin(), s.end(), arr[i]) - s.begin() + 1;
         }
-       }
-       for(int &i:arr){
-        i=mp[i];
-       }
-       return arr;
+        return arr;
     }
 };
