@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/code-muse-1905/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/code-muse-1905/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-muse-1905/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/code-muse-1905/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/code-muse-1905/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/code-muse-1905/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-muse-1905/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
