@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/code-muse-1905/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-muse-1905/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-muse-1905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/code-muse-1905/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/code-muse-1905/Leetcode/tree/master/0260-single-number-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/code-muse-1905/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 ## Enumeration
 |  |
 | ------- |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/code-muse-1905/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
