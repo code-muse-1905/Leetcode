@@ -14,7 +14,7 @@ class Solution {
     
     private:
      int c(TreeNode* root) {
-        if(root == nullptr) return INT_MIN ; 
+        if(root == nullptr) return 0 ; 
         int l = c(root->left); 
         int r = c(root->right); 
         if(root->val >= max(l, r)) {
