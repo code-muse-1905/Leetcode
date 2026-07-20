@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2104-sum-of-subarray-ranges](https://github.com/code-muse-1905/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/code-muse-1905/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/code-muse-1905/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3046-split-the-array](https://github.com/code-muse-1905/Leetcode/tree/master/3046-split-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/code-muse-1905/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/code-muse-1905/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/code-muse-1905/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/code-muse-1905/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/code-muse-1905/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
