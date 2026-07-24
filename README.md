@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/code-muse-1905/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3046-split-the-array](https://github.com/code-muse-1905/Leetcode/tree/master/3046-split-the-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/code-muse-1905/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/code-muse-1905/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/code-muse-1905/Leetcode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/code-muse-1905/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/code-muse-1905/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/code-muse-1905/Leetcode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/code-muse-1905/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
