@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/code-muse-1905/Leetcode/tree/master/0260-single-number-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/code-muse-1905/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-muse-1905/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/code-muse-1905/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-muse-1905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/code-muse-1905/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
