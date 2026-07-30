@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/code-muse-1905/Leetcode/tree/master/0455-assign-cookies) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/code-muse-1905/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/code-muse-1905/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/code-muse-1905/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-muse-1905/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/code-muse-1905/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/code-muse-1905/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
