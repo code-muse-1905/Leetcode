@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/code-muse-1905/Leetcode/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/code-muse-1905/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/code-muse-1905/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-muse-1905/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-muse-1905/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -174,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/code-muse-1905/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/code-muse-1905/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/code-muse-1905/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/code-muse-1905/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/code-muse-1905/Leetcode/tree/master/0260-single-number-iii) |
