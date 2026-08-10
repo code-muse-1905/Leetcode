@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/code-muse-1905/Leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/code-muse-1905/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/code-muse-1905/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/code-muse-1905/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-muse-1905/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/code-muse-1905/Leetcode/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/code-muse-1905/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
