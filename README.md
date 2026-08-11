@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/code-muse-1905/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/code-muse-1905/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code-muse-1905/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/code-muse-1905/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3046-split-the-array](https://github.com/code-muse-1905/Leetcode/tree/master/3046-split-the-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/code-muse-1905/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code-muse-1905/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/code-muse-1905/Leetcode/tree/master/3046-split-the-array) |
 ## Divide and Conquer
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/code-muse-1905/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/code-muse-1905/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/code-muse-1905/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/code-muse-1905/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
