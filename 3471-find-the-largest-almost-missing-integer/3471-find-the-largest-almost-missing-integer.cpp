@@ -10,13 +10,13 @@ public:
             return *max_element(nums.begin(), nums.end());
         }
         if (k == 1) {
-            int maxValue = -1;
+            int maxi = -1;
             for (int i = 0; i < n; i++) {
-                if (mp[nums[i]] == 1 && nums[i] > maxValue) {
-                    maxValue = nums[i];
+                if (mp[nums[i]] == 1 && nums[i] > maxi) {
+                    maxi = nums[i];
                 }
             }
-            return maxValue;
+            return maxi;
         }
         n = n - 1;
         if (nums[0] == nums[n]) {
