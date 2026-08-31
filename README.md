@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/code-muse-1905/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-muse-1905/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2390-removing-stars-from-a-string](https://github.com/code-muse-1905/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-muse-1905/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/code-muse-1905/Leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/code-muse-1905/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/code-muse-1905/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/code-muse-1905/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/code-muse-1905/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/code-muse-1905/Leetcode/tree/master/0402-remove-k-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/code-muse-1905/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/code-muse-1905/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/code-muse-1905/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
