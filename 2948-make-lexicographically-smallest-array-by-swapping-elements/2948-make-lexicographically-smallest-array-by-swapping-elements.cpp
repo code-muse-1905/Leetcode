@@ -7,14 +7,12 @@ public:
         unordered_map<int, vector<int>> g;
         unordered_map<int, int> b;
         unordered_map<int, int> Minindex;
-
         int id = 1;
         g[id].push_back(arr[0]);
         for (int i = 1; i < n; i++) {
             if (arr[i] - arr[i - 1] > limit) {
                 id++;
             }
-
             g[id].push_back(arr[i]);
         }
         id = 1;
@@ -32,7 +30,6 @@ public:
             nums[i] = g[groupId][Minindex[groupId]];
             Minindex[groupId]++;
         }
-
         return nums;
     }
 };
