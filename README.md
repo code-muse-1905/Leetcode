@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/code-muse-1905/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 ## Stack
 |  |
 | ------- |
@@ -315,11 +316,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/code-muse-1905/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/code-muse-1905/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/code-muse-1905/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/code-muse-1905/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/code-muse-1905/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
