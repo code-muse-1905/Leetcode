@@ -1,14 +1,15 @@
 class Solution {
 public:
     unordered_map<int,list<int>>mp;
-    void bfs(unordered_map<int,bool>&visited,int node){
+    unordered_map<int,bool>visited;
+    void bfs(int node){
         queue<int>q;//2
         q.push(node);
         visited[node]=true;
         while(!q.empty()){
-            int frontnode = q.front();//1
+            int frontnode = q.front();
             q.pop();
-            for(auto i:mp[frontnode]){//2
+            for(auto i:mp[frontnode]){
                 if(visited[i]==false){
                     visited[i]=true;
                     q.push(i);
@@ -29,11 +30,11 @@ public:
             }
         }
         int ans=0;
-        unordered_map<int,bool>visited;
+        // unordered_map<int,bool>visited;
         for(int i=0;i<n;i++){
         if(visited[i]==false){
                 ans++;
-                bfs(visited,i); 
+                bfs(i); 
             }
         }
         return ans;
