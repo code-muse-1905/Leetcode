@@ -1,41 +1,40 @@
 class Solution {
 public:
- unordered_map<int, list<int>> matrixToMap(
-        int V,vector<vector<int>>& matrix
-    ) {
-        unordered_map<int, list<int>> adj;
-        for (int i = 0; i < V; i++) {
-            for (int j = 0; j < V; j++) {
-                if (matrix[i][j] == 1) {
-                adj[i].push_back(j);
+    void bfs(unordered_map<int,list<int>>&mp,unordered_map<int,bool>&visited,int node){
+        queue<int>q;//2
+        q.push(node);
+        visited[node]=true;
+        while(!q.empty()){
+            int frontnode = q.front();//1
+            q.pop();
+            for(auto i:mp[frontnode]){//2
+                if(visited[i]==false){
+                    visited[i]=true;
+                    q.push(i);
+                }
+            }
+        }  
+    } 
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        unordered_map<int,list<int>>mp;
+        int n=isConnected.size();
+        int m=isConnected[0].size();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(isConnected[i][j]==1){
+                    mp[i].push_back(j);
+                    mp[j].push_back(i);
                 }
             }
         }
-        return adj;
-    }
-    void dfs(
-        int node,
-        unordered_map<int, list<int>>& adj,
-        unordered_map<int, bool>& visited
-    ) {
-        visited[node] = true;
-        for (auto neighbour : adj[node]) {
-            if (!visited[neighbour]) {
-            dfs(neighbour, adj, visited);
+        int ans=0;
+        unordered_map<int,bool>visited;
+        for(int i=0;i<n;i++){
+        if(visited[i]==false){
+                ans++;
+                bfs(mp,visited,i); 
             }
         }
-    }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-       int v=isConnected.size();
-       unordered_map<int,list<int>>adj=matrixToMap(v,isConnected);
-       unordered_map<int,bool>visited;
-       int prov=0;
-       for(int i=0;i<v;i++){
-        if(!visited[i]){
-            dfs(i,adj,visited);
-            prov++;
-        }
-       } 
-       return prov;
+        return ans;
     }
 };
