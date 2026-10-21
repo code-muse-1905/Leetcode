@@ -2,9 +2,7 @@ class Solution {
 public:
     int minOperations(const string &s) {
         bool isSorted = is_sorted(s.begin(), s.end());
-        if (isSorted) {
-            return 0;
-        }
+        if (isSorted)  return 0;
         const int n = static_cast<int>(s.size());
         if (n == 2) {
             return -1;
