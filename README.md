@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-substring-matching-pattern](https://github.com/code-muse-1905/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/code-muse-1905/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/code-muse-1905/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
 | ------- |
