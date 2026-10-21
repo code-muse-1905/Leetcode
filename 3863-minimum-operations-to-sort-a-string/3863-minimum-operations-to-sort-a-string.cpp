@@ -1,17 +1,27 @@
 class Solution {
 public:
-    int minOperations(string s) {
-     int n=s.length();
-     string a=s;
-     sort(a.begin(),a.end());
-     if(s==a) return 0;
-     if(n==2) return -1;
-     char mini=*min_element(s.begin(),s.end());
-     char maxi=*max_element(s.begin(),s.end());
-     int i1=s.find(mini);
-     int i2=s.rfind(maxi);
-     if(s[0]==mini||s[n-1]==maxi) return 1;
-     else if(i1!=n-1||i2!=0) return 2;
-     else return 3;   
+    int minOperations(const string &s) {
+        bool isSorted = is_sorted(s.begin(), s.end());
+        if (isSorted) {
+            return 0;
+        }
+        const int n = static_cast<int>(s.size());
+        if (n == 2) {
+            return -1;
+        }
+        char minVal = s[0], maxVal = s[0];
+        for (char ch : s) {
+            minVal = min(minVal, ch);
+            maxVal = max(maxVal, ch);
+        }
+        if (s[0] == minVal || s[n - 1] == maxVal) {
+            return 1;
+        }
+        for (int i = 1; i + 1 < n; ++i) {
+            if (s[i] == minVal || s[i] == maxVal) {
+                return 2;
+            }
+        }
+        return 3;
     }
 };
