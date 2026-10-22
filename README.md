@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/code-muse-1905/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code-muse-1905/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/code-muse-1905/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
