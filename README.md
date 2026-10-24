@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/code-muse-1905/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/code-muse-1905/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2390-removing-stars-from-a-string](https://github.com/code-muse-1905/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/code-muse-1905/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/code-muse-1905/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/code-muse-1905/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/code-muse-1905/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/code-muse-1905/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2409-count-days-spent-together](https://github.com/code-muse-1905/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/code-muse-1905/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/code-muse-1905/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/code-muse-1905/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
