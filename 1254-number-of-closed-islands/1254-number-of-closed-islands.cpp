@@ -2,11 +2,17 @@ class Solution {
 public:
 void dfs(vector<vector<int>>& g,int i,int j){
     if(i<0||j<0||i>=g.size()||j>=g[0].size()||g[i][j]==1) return;
-    int s[4][2]={{0,1},{1,0},{0,-1},{-1,0}};
-    g[i][j]=1;
-    for(auto &k:s){
-        dfs(g,i+k[0],j+k[1]);
-    }
+    // int s[4][2]={{0,1},{1,0},{0,-1},{-1,0}};
+     g[i][j]=1;
+    // for(auto &k:s){
+    //     dfs(g,i+k[0],j+k[1]);
+    // }
+    dfs(g,i-1,j);
+     dfs(g,i+1,j);
+      dfs(g,i,j-1);
+       dfs(g,i,j+1);
+
+    
 }
     int closedIsland(vector<vector<int>>& grid) {
         int n=grid.size(), m=grid[0].size();
