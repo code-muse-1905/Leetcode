@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/code-muse-1905/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/code-muse-1905/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/code-muse-1905/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/code-muse-1905/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/code-muse-1905/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/code-muse-1905/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/code-muse-1905/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/code-muse-1905/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/code-muse-1905/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/code-muse-1905/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2614-prime-in-diagonal](https://github.com/code-muse-1905/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/code-muse-1905/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/code-muse-1905/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/code-muse-1905/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/code-muse-1905/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
