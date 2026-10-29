@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/code-muse-1905/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/code-muse-1905/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/code-muse-1905/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/code-muse-1905/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/code-muse-1905/Leetcode/tree/master/0877-stone-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/code-muse-1905/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/code-muse-1905/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/code-muse-1905/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/code-muse-1905/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/code-muse-1905/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/code-muse-1905/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/code-muse-1905/Leetcode/tree/master/0877-stone-game) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/code-muse-1905/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/code-muse-1905/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/code-muse-1905/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/code-muse-1905/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/code-muse-1905/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/code-muse-1905/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/code-muse-1905/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/code-muse-1905/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/code-muse-1905/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/code-muse-1905/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/code-muse-1905/Leetcode/tree/master/0994-rotting-oranges) |
